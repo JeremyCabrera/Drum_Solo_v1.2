@@ -8,7 +8,6 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #000000;
-
 }
 
 footer {
@@ -17,33 +16,22 @@ footer {
 }
 
 .w {
-
-
+  background-image: url("images/tom1.png");
 }
 
 .a {
-
+  background-image: url("images/tom2.png");
 }
 
-.s {
+.s {}
 
-}
+.d {}
 
-.d {
+.j {}
 
-}
+.k {}
 
-.j {
-
-}
-
-.k {
-
-}
-
-.l {
-
-}
+.l {}
 
 .set {
   margin: 10% auto;
